@@ -1,0 +1,122 @@
+[
+    {
+        "tipo": "despesa",
+        "valor": 120.0,
+        "descricao": "Internet",
+        "data": "10/01/2026"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 300.0,
+        "descricao": "Despesa diversa",
+        "data": "27/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 130.0,
+        "descricao": "Uber Renan/Raniele",
+        "data": "26/12/2025"
+    },
+    {
+        "tipo": "receita",
+        "valor": 10.0,
+        "descricao": "Teste",
+        "data": "26/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 500.0,
+        "descricao": "Despesas ceia",
+        "data": "24/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 1000.0,
+        "descricao": "Poupar",
+        "data": "24/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 300.0,
+        "descricao": "Cartao de credito Nu",
+        "data": "24/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 200.0,
+        "descricao": "Jantar com Laís",
+        "data": "24/12/2025"
+    },
+    {
+        "tipo": "receita",
+        "valor": 3250.0,
+        "descricao": "Bonus",
+        "data": "23/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 336.0,
+        "descricao": "Senac",
+        "data": "20/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 600.0,
+        "descricao": "Cartão Itau",
+        "data": "15/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 1000.0,
+        "descricao": "Cartão Nu",
+        "data": "14/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 100.0,
+        "descricao": "Luz",
+        "data": "10/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 70.0,
+        "descricao": "Agua",
+        "data": "10/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 900.0,
+        "descricao": "Gastos empresa",
+        "data": "06/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 700.0,
+        "descricao": "Luiz",
+        "data": "06/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 265.0,
+        "descricao": "Fies",
+        "data": "06/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 1000.0,
+        "descricao": "Poupança",
+        "data": "06/12/2025"
+    },
+    {
+        "tipo": "despesa",
+        "valor": 250.0,
+        "descricao": "Presente de Natalina",
+        "data": "06/12/2025"
+    },
+    {
+        "tipo": "receita",
+        "valor": 6500.0,
+        "descricao": "Salário",
+        "data": "05/12/2025"
+    }
+]
