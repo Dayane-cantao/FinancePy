@@ -4,6 +4,7 @@ import sys
 from datetime import datetime
 
 
+
 # Lista que armazena todas as movimentações - Constantes
 movimentacoes = []
 
