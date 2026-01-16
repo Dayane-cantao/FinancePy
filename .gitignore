@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Build / distribuição
+build/
+dist/
+installer/
+*.spec
+
+# Executáveis
+*.exe
+*.zip
+
+# IDE
+.vscode/
